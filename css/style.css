@@ -48,7 +48,6 @@ ul {
   gap: 40px;
 }
 
-
 /* Logo */
 .nav-logo {
   font-family: "Raleway", sans-serif;
@@ -79,6 +78,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-2);
+  padding: 24px 0;
 }
 
 .nav-studio:hover,
@@ -100,6 +100,11 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-6);
+}
+
+.address-lnfo-list {
+  display: flex;
+  gap: 40px;
 }
 
 .address-info:hover,
@@ -246,5 +251,3 @@ ul {
 .header-div {
   display: flex;
 }
-
-
