@@ -5,6 +5,7 @@
   --color-4: #ffffff;
   --color-5: #f4f4fd;
   --color-6: #434455;
+  --color-7: #e7e9fc;
 }
 
 body {
@@ -14,9 +15,8 @@ body {
 }
 
 img {
-	display: block;
+  display: block;
 }
-
 
 /* header */
 /* Logo */
@@ -206,6 +206,5 @@ img {
 }
 
 .list-section-four {
-  background-color: var(--color-4);
+  background-color: var(--color-7);
 }
-
