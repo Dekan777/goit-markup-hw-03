@@ -13,6 +13,10 @@ body {
   background-color: var(--color-4);
 }
 
+img {
+	display: block;
+}
+
 
 /* header */
 /* Logo */
@@ -205,6 +209,3 @@ body {
   background-color: var(--color-4);
 }
 
-img {
-  display: block;
-}
