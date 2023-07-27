@@ -213,6 +213,9 @@ img {
 .header {
   border-bottom: 1px solid #e7e9fc; /* нижний край header */
 }
+.header-div {
+  display: flex;
+}
 
 
 
