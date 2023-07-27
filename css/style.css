@@ -5,7 +5,7 @@
   --color-4: #ffffff;
   --color-5: #f4f4fd;
   --color-6: #434455;
-  --color-7: #e7e9fc;
+  --color-7: #e7e9fc; 
 }
 
 body {
@@ -211,7 +211,7 @@ img {
 }
 
 .header {
-  border-bottom: 1px solid #e7e9fc;
+  border-bottom: 1px solid #e7e9fc; /* нижний край header */
 }
 
 
