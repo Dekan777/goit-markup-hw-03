@@ -58,7 +58,7 @@ ul {
 
 .nav-list {
   display: flex;
-  gap: 40px;
+  
 }
 
 
@@ -99,7 +99,9 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-2);
-  padding: 24px 0;
+  padding-top: 24px;
+  padding-bottom: 24px;
+  margin-right: 40px;
 }
 
 .nav-studio:hover,
@@ -125,7 +127,7 @@ ul {
 
 .address-lnfo-list {
   display: flex;
-  gap: 40px;
+  
 }
 .address-info {
   margin-right: 40px;
