@@ -37,6 +37,20 @@ ul {
   padding-right: 15px;
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+  
+  }
+
 /* header */
 .web-studio {
   display: flex;
@@ -227,6 +241,14 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-2);
+  
+
+}
+.section-two-list {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  display: flex;
+  margin-right: 24px;
 }
 
 .list-section-two-p {
