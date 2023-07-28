@@ -45,6 +45,7 @@ ul {
 
 .nav-list {
   display: flex;
+  gap: 40px;
   
 }
 .nav-studio {
@@ -107,6 +108,7 @@ ul {
 
 .address-lnfo-list {
   display: flex;
+  gap: 40px;
 }
 .address-info {
   margin-right: 40px;
