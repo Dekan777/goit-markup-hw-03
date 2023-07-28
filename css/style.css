@@ -101,7 +101,7 @@ ul {
   color: var(--color-2);
   padding-top: 24px;
   padding-bottom: 24px;
-  
+  margin-right: 40px;
 }
 
 .nav-studio:hover,
