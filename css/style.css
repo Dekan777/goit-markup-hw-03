@@ -88,7 +88,10 @@ ul {
   list-style: none;
   display: flex;
   margin-right: 24px;
+}
 
+.list-one {
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .nav-studio {
@@ -145,7 +148,6 @@ ul {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--color-4);
-  
 }
 
 .button-all {
@@ -243,6 +245,7 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-2);
+  margin-bottom: 8px;
 }
 .section-blok-two {
   padding-top: 120px;
