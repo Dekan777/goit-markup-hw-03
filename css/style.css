@@ -87,6 +87,7 @@ ul {
   list-style: none;
   display: flex;
   gap: 24px;
+  justify-content: center;
 }
 
 .list-one {
@@ -316,3 +317,10 @@ ul {
 .header-div {
   display: flex;
 }
+
+
+.main-section {
+  padding-top: 96px;
+  padding-bottom: 120px; 
+}
+
