@@ -61,7 +61,6 @@ ul {
   gap: 40px;
 }
 
-
 /* Logo */
 .nav-logo {
   font-family: "Raleway", sans-serif;
@@ -85,8 +84,7 @@ ul {
 .list {
   list-style: none;
   display: flex;
-  gap: 24px; 
-  
+  gap: 24px;
 }
 
 .list-one {
@@ -247,6 +245,7 @@ ul {
   letter-spacing: 0.02em;
   color: var(--color-2);
   margin-bottom: 8px;
+  text-align: center;
 }
 .section-blok-two {
   padding-top: 120px;
@@ -260,6 +259,7 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-6);
+  text-align: center;
 }
 
 .section-three-h {
@@ -269,10 +269,24 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--color-2);
+  margin-bottom: 72px;
+}
+.name-proffesion-one {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.section-blok-three {
+  padding-bottom: 120px;
 }
 
 .section-four {
   background-color: var(--color-5);
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.section-list-three {
+  width: calc((100% - 3 * 16px) / 3);
 }
 
 .section-four-h {
@@ -282,10 +296,13 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--color-2);
+  margin-bottom: 72px;
 }
 
 .list-section-four {
   background-color: var(--color-4);
+  width: calc((100% - 3 * 24px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 
 .header {
