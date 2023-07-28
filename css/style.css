@@ -142,6 +142,7 @@ ul {
   text-align: center;
   letter-spacing: 0.02em;
   color: var(--color-4);
+  display: flex;
 }
 
 .button-all {
