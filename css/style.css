@@ -72,7 +72,7 @@ ul {
   color: var(--color-1);
   margin-right: 76px;
   display: inline-block;
-  
+  margin-bottom: 16px;
 }
 
 .link {
