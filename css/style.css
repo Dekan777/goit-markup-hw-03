@@ -58,9 +58,11 @@ ul {
 
 .nav-list {
   display: flex;
-  gap: 40px;
+  
 }
-
+.nav-studio {
+  margin-right: 40px;
+}
 
 /* Logo */
 .nav-logo {
