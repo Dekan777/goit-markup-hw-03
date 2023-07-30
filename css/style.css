@@ -6,7 +6,6 @@
   --color-5: #f4f4fd;
   --color-6: #434455;
   --color-7: #e7e9fc;
-  
 }
 
 body {
@@ -73,7 +72,7 @@ ul {
   color: var(--color-1);
 
   display: inline-block;
-  
+
   margin-bottom: 16px;
 }
 .nav-logo-header {
@@ -86,10 +85,7 @@ ul {
   color: var(--color-1);
   margin-right: 76px;
   display: inline-block;
-  
 }
-
-
 
 .link {
   text-decoration: none;
@@ -109,8 +105,7 @@ ul {
   display: flex;
   justify-content: center;
   margin-bottom: 72px;
-  gap: 24px; 
-
+  gap: 24px;
 }
 
 .list-one {
@@ -125,7 +120,7 @@ ul {
   color: var(--color-2);
   padding-top: 24px;
   padding-bottom: 24px;
-  
+
   display: block;
 }
 
@@ -151,15 +146,12 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-6);
-  margin-right: 40px;
-  
 }
 
 .address-lnfo-list {
   display: flex;
   gap: 40px;
 }
-
 
 .address-info:hover,
 .address-info:focus {
@@ -189,9 +181,7 @@ ul {
   background-color: var(--color-5);
   padding: 12px 24px;
   border: 1px solid var(--color-7);
-  border-radius: 4px; 
-  
-
+  border-radius: 4px;
 }
 
 .button-all:hover,
@@ -211,7 +201,6 @@ ul {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-
 }
 
 .portfolio-h {
@@ -223,18 +212,14 @@ ul {
   margin-bottom: 8px;
 }
 
-
 .list-filter-portfolio {
   width: calc((100% - 48px) / 3);
-
 }
 .div-list-portfolio {
   padding: 32px 16px;
   border: 1px solid var(--color-7);
   border-top: none;
-
 }
-
 
 .portfolio-p {
   font-size: 16px;
@@ -248,7 +233,6 @@ ul {
   background-color: var(--color-2);
   padding-top: 100px;
   padding-bottom: 100px;
-  
 }
 
 .color-logo-header {
@@ -266,8 +250,6 @@ ul {
   background-color: var(--color-2);
   padding-top: 188px;
   padding-bottom: 188px;
-  
-  
 }
 
 .section-one-h {
@@ -278,17 +260,10 @@ ul {
   color: var(--color-4);
   max-width: 496px;
   display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 48px;
- 
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 48px;
 }
-
-
-
-
-
-
 
 .button-section-one {
   background-color: var(--color-1);
@@ -305,12 +280,9 @@ ul {
   border: none;
   background-color: #4d5ae5;
   border-radius: 4px;
-  
+
   margin-left: auto;
   margin-right: auto;
-  
-  
-  
 }
 
 .button-section-one:hover,
@@ -325,7 +297,6 @@ ul {
   letter-spacing: 0.02em;
   color: var(--color-2);
   margin-bottom: 8px;
- 
 }
 
 .list-section-two {
@@ -335,8 +306,6 @@ ul {
 .section-blok-two {
   padding-top: 120px;
   padding-bottom: 120px;
-  
- 
 }
 
 .list-section-two-p {
@@ -344,7 +313,6 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--color-6);
-  
 }
 
 .section-three-h {
